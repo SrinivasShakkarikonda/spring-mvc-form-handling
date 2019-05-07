@@ -30,6 +30,7 @@ import com.mkyong.form.model.User;
 import com.mkyong.form.service.UserService;
 import com.mkyong.form.validator.UserFormValidator;
 //import javax.validation.Valid;
+hello i am validationthe code
 
 //http://www.tikalk.com/redirectattributes-new-feature-spring-mvc-31/
 //https://en.wikipedia.org/wiki/Post/Redirect/Get
