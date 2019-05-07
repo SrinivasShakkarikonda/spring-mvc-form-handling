@@ -31,7 +31,8 @@ import com.mkyong.form.service.UserService;
 import com.mkyong.form.validator.UserFormValidator;
 //import javax.validation.Valid;
 hello i am validationthe code
-
+aiguiadg
+gfgehfgaefwe
 //http://www.tikalk.com/redirectattributes-new-feature-spring-mvc-31/
 //https://en.wikipedia.org/wiki/Post/Redirect/Get
 //http://www.oschina.net/translate/spring-mvc-flash-attribute-example
